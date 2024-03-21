@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Bronzen Abundance Line';
+    src: url('BronzenAbundanceLine.eot');
+    src: local('Bronzen Abundance Line'), local('BronzenAbundanceLine'),
+        url('BronzenAbundanceLine.eot?#iefix') format('embedded-opentype'),
+        url('BronzenAbundanceLine.woff2') format('woff2'),
+        url('BronzenAbundanceLine.woff') format('woff'),
+        url('BronzenAbundanceLine.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bronzen Abundance Filled';
+    src: url('BronzenAbundanceFilled.eot');
+    src: local('Bronzen Abundance Filled'), local('BronzenAbundanceFilled'),
+        url('BronzenAbundanceFilled.eot?#iefix') format('embedded-opentype'),
+        url('BronzenAbundanceFilled.woff2') format('woff2'),
+        url('BronzenAbundanceFilled.woff') format('woff'),
+        url('BronzenAbundanceFilled.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bronzen Abundance Colored';
+    src: url('BronzenAbundanceColored.eot');
+    src: local('Bronzen Abundance Colored'), local('BronzenAbundanceColored'),
+        url('BronzenAbundanceColored.eot?#iefix') format('embedded-opentype'),
+        url('BronzenAbundanceColored.woff2') format('woff2'),
+        url('BronzenAbundanceColored.woff') format('woff'),
+        url('BronzenAbundanceColored.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bronzen Abundance Pattern';
+    src: url('BronzenAbundancePattern.eot');
+    src: local('Bronzen Abundance Pattern'), local('BronzenAbundancePattern'),
+        url('BronzenAbundancePattern.eot?#iefix') format('embedded-opentype'),
+        url('BronzenAbundancePattern.woff2') format('woff2'),
+        url('BronzenAbundancePattern.woff') format('woff'),
+        url('BronzenAbundancePattern.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

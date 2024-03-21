@@ -1,0 +1,240 @@
+@font-face {
+    font-family: 'Cream Opera Outline';
+    src: url('OperaOutline.eot');
+    src: local('Cream Opera Outline'), local('OperaOutline'),
+        url('OperaOutline.eot?#iefix') format('embedded-opentype'),
+        url('OperaOutline.woff2') format('woff2'),
+        url('OperaOutline.woff') format('woff'),
+        url('OperaOutline.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera Stencil';
+    src: url('OperaStencil.eot');
+    src: local('Cream Opera Stencil'), local('OperaStencil'),
+        url('OperaStencil.eot?#iefix') format('embedded-opentype'),
+        url('OperaStencil.woff2') format('woff2'),
+        url('OperaStencil.woff') format('woff'),
+        url('OperaStencil.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera Bold Oblique';
+    src: url('OperaBoldOblique.eot');
+    src: local('Cream Opera Bold Oblique'), local('OperaBoldOblique'),
+        url('OperaBoldOblique.eot?#iefix') format('embedded-opentype'),
+        url('OperaBoldOblique.woff2') format('woff2'),
+        url('OperaBoldOblique.woff') format('woff'),
+        url('OperaBoldOblique.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera';
+    src: url('OperaRegular.eot');
+    src: local('Cream Opera'), local('OperaRegular'),
+        url('OperaRegular.eot?#iefix') format('embedded-opentype'),
+        url('OperaRegular.woff2') format('woff2'),
+        url('OperaRegular.woff') format('woff'),
+        url('OperaRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera Black Oblique';
+    src: url('OperaBlackOblique.eot');
+    src: local('Cream Opera Black Oblique'), local('OperaBlackOblique'),
+        url('OperaBlackOblique.eot?#iefix') format('embedded-opentype'),
+        url('OperaBlackOblique.woff2') format('woff2'),
+        url('OperaBlackOblique.woff') format('woff'),
+        url('OperaBlackOblique.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera Medium Oblique';
+    src: url('OperaMediumOblique.eot');
+    src: local('Cream Opera Medium Oblique'), local('OperaMediumOblique'),
+        url('OperaMediumOblique.eot?#iefix') format('embedded-opentype'),
+        url('OperaMediumOblique.woff2') format('woff2'),
+        url('OperaMediumOblique.woff') format('woff'),
+        url('OperaMediumOblique.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera Thin Oblique';
+    src: url('OperaThinOblique.eot');
+    src: local('Cream Opera Thin Oblique'), local('OperaThinOblique'),
+        url('OperaThinOblique.eot?#iefix') format('embedded-opentype'),
+        url('OperaThinOblique.woff2') format('woff2'),
+        url('OperaThinOblique.woff') format('woff'),
+        url('OperaThinOblique.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera Outline Oblique';
+    src: url('OperaOutlineOblique.eot');
+    src: local('Cream Opera Outline Oblique'), local('OperaOutlineOblique'),
+        url('OperaOutlineOblique.eot?#iefix') format('embedded-opentype'),
+        url('OperaOutlineOblique.woff2') format('woff2'),
+        url('OperaOutlineOblique.woff') format('woff'),
+        url('OperaOutlineOblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera Oblique';
+    src: url('OperaRegularOblique.eot');
+    src: local('Cream Opera Oblique'), local('OperaRegularOblique'),
+        url('OperaRegularOblique.eot?#iefix') format('embedded-opentype'),
+        url('OperaRegularOblique.woff2') format('woff2'),
+        url('OperaRegularOblique.woff') format('woff'),
+        url('OperaRegularOblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera';
+    src: url('OperaThin.eot');
+    src: local('Cream Opera Thin'), local('OperaThin'),
+        url('OperaThin.eot?#iefix') format('embedded-opentype'),
+        url('OperaThin.woff2') format('woff2'),
+        url('OperaThin.woff') format('woff'),
+        url('OperaThin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera Stencil Oblique';
+    src: url('OperaStencilOblique.eot');
+    src: local('Cream Opera Stencil Oblique'), local('OperaStencilOblique'),
+        url('OperaStencilOblique.eot?#iefix') format('embedded-opentype'),
+        url('OperaStencilOblique.woff2') format('woff2'),
+        url('OperaStencilOblique.woff') format('woff'),
+        url('OperaStencilOblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera';
+    src: url('OperaBlack.eot');
+    src: local('Cream Opera Black'), local('OperaBlack'),
+        url('OperaBlack.eot?#iefix') format('embedded-opentype'),
+        url('OperaBlack.woff2') format('woff2'),
+        url('OperaBlack.woff') format('woff'),
+        url('OperaBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera Western Oblique';
+    src: url('OperaWesternOblique.eot');
+    src: local('Cream Opera Western Oblique'), local('OperaWesternOblique'),
+        url('OperaWesternOblique.eot?#iefix') format('embedded-opentype'),
+        url('OperaWesternOblique.woff2') format('woff2'),
+        url('OperaWesternOblique.woff') format('woff'),
+        url('OperaWesternOblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera';
+    src: url('OperaBold.eot');
+    src: local('Cream Opera Bold'), local('OperaBold'),
+        url('OperaBold.eot?#iefix') format('embedded-opentype'),
+        url('OperaBold.woff2') format('woff2'),
+        url('OperaBold.woff') format('woff'),
+        url('OperaBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera';
+    src: url('OperaMedium.eot');
+    src: local('Cream Opera Medium'), local('OperaMedium'),
+        url('OperaMedium.eot?#iefix') format('embedded-opentype'),
+        url('OperaMedium.woff2') format('woff2'),
+        url('OperaMedium.woff') format('woff'),
+        url('OperaMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera';
+    src: url('OperaLight.eot');
+    src: local('Cream Opera Light'), local('OperaLight'),
+        url('OperaLight.eot?#iefix') format('embedded-opentype'),
+        url('OperaLight.woff2') format('woff2'),
+        url('OperaLight.woff') format('woff'),
+        url('OperaLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera Light Oblique';
+    src: url('OperaLightOblique.eot');
+    src: local('Cream Opera Light Oblique'), local('OperaLightOblique'),
+        url('OperaLightOblique.eot?#iefix') format('embedded-opentype'),
+        url('OperaLightOblique.woff2') format('woff2'),
+        url('OperaLightOblique.woff') format('woff'),
+        url('OperaLightOblique.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera Inline Oblique';
+    src: url('OperaInlineOblique.eot');
+    src: local('Cream Opera Inline Oblique'), local('OperaInlineOblique'),
+        url('OperaInlineOblique.eot?#iefix') format('embedded-opentype'),
+        url('OperaInlineOblique.woff2') format('woff2'),
+        url('OperaInlineOblique.woff') format('woff'),
+        url('OperaInlineOblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera Inline';
+    src: url('OperaInline.eot');
+    src: local('Cream Opera Inline'), local('OperaInline'),
+        url('OperaInline.eot?#iefix') format('embedded-opentype'),
+        url('OperaInline.woff2') format('woff2'),
+        url('OperaInline.woff') format('woff'),
+        url('OperaInline.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cream Opera Western';
+    src: url('OperaWestern.eot');
+    src: local('Cream Opera Western'), local('OperaWestern'),
+        url('OperaWestern.eot?#iefix') format('embedded-opentype'),
+        url('OperaWestern.woff2') format('woff2'),
+        url('OperaWestern.woff') format('woff'),
+        url('OperaWestern.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

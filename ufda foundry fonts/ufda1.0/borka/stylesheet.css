@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Borka';
+    src: url('Borka-Regular.eot');
+    src: local('Borka'), local('Borka-Regular'),
+        url('Borka-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Borka-Regular.woff2') format('woff2'),
+        url('Borka-Regular.woff') format('woff'),
+        url('Borka-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Borka';
+    src: url('Borka-BoldItalic.eot');
+    src: local('Borka Bold Italic'), local('Borka-BoldItalic'),
+        url('Borka-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Borka-BoldItalic.woff2') format('woff2'),
+        url('Borka-BoldItalic.woff') format('woff'),
+        url('Borka-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Borka';
+    src: url('Borka-Italic.eot');
+    src: local('Borka Italic'), local('Borka-Italic'),
+        url('Borka-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Borka-Italic.woff2') format('woff2'),
+        url('Borka-Italic.woff') format('woff'),
+        url('Borka-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Borka';
+    src: url('Borka-Bold.eot');
+    src: local('Borka Bold'), local('Borka-Bold'),
+        url('Borka-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Borka-Bold.woff2') format('woff2'),
+        url('Borka-Bold.woff') format('woff'),
+        url('Borka-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+

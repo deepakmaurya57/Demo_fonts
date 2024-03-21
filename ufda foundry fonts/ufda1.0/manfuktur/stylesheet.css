@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Manufaktur';
+    src: url('Manufaktur-BlackIt.eot');
+    src: local('Manufaktur Black Italic'), local('Manufaktur-BlackIt'),
+        url('Manufaktur-BlackIt.eot?#iefix') format('embedded-opentype'),
+        url('Manufaktur-BlackIt.woff2') format('woff2'),
+        url('Manufaktur-BlackIt.woff') format('woff'),
+        url('Manufaktur-BlackIt.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Manufaktur';
+    src: url('Manufaktur-Bold.eot');
+    src: local('Manufaktur Bold'), local('Manufaktur-Bold'),
+        url('Manufaktur-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Manufaktur-Bold.woff2') format('woff2'),
+        url('Manufaktur-Bold.woff') format('woff'),
+        url('Manufaktur-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Manufaktur';
+    src: url('Manufaktur-Black.eot');
+    src: local('Manufaktur Black'), local('Manufaktur-Black'),
+        url('Manufaktur-Black.eot?#iefix') format('embedded-opentype'),
+        url('Manufaktur-Black.woff2') format('woff2'),
+        url('Manufaktur-Black.woff') format('woff'),
+        url('Manufaktur-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Manufaktur';
+    src: url('Manufaktur-Light.eot');
+    src: local('Manufaktur Light'), local('Manufaktur-Light'),
+        url('Manufaktur-Light.eot?#iefix') format('embedded-opentype'),
+        url('Manufaktur-Light.woff2') format('woff2'),
+        url('Manufaktur-Light.woff') format('woff'),
+        url('Manufaktur-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Manufaktur';
+    src: url('Manufaktur-Medium.eot');
+    src: local('Manufaktur Medium'), local('Manufaktur-Medium'),
+        url('Manufaktur-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Manufaktur-Medium.woff2') format('woff2'),
+        url('Manufaktur-Medium.woff') format('woff'),
+        url('Manufaktur-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Manufaktur';
+    src: url('Manufaktur-HeavyIt.eot');
+    src: local('Manufaktur Heavy Italic'), local('Manufaktur-HeavyIt'),
+        url('Manufaktur-HeavyIt.eot?#iefix') format('embedded-opentype'),
+        url('Manufaktur-HeavyIt.woff2') format('woff2'),
+        url('Manufaktur-HeavyIt.woff') format('woff'),
+        url('Manufaktur-HeavyIt.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Manufaktur';
+    src: url('Manufaktur-LightIt.eot');
+    src: local('Manufaktur Light Italic'), local('Manufaktur-LightIt'),
+        url('Manufaktur-LightIt.eot?#iefix') format('embedded-opentype'),
+        url('Manufaktur-LightIt.woff2') format('woff2'),
+        url('Manufaktur-LightIt.woff') format('woff'),
+        url('Manufaktur-LightIt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Manufaktur';
+    src: url('Manufaktur-MediumIt.eot');
+    src: local('Manufaktur Medium Italic'), local('Manufaktur-MediumIt'),
+        url('Manufaktur-MediumIt.eot?#iefix') format('embedded-opentype'),
+        url('Manufaktur-MediumIt.woff2') format('woff2'),
+        url('Manufaktur-MediumIt.woff') format('woff'),
+        url('Manufaktur-MediumIt.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Manufaktur';
+    src: url('Manufaktur-Heavy.eot');
+    src: local('Manufaktur Heavy'), local('Manufaktur-Heavy'),
+        url('Manufaktur-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('Manufaktur-Heavy.woff2') format('woff2'),
+        url('Manufaktur-Heavy.woff') format('woff'),
+        url('Manufaktur-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Manufaktur';
+    src: url('Manufaktur-BoldIt.eot');
+    src: local('Manufaktur Bold Italic'), local('Manufaktur-BoldIt'),
+        url('Manufaktur-BoldIt.eot?#iefix') format('embedded-opentype'),
+        url('Manufaktur-BoldIt.woff2') format('woff2'),
+        url('Manufaktur-BoldIt.woff') format('woff'),
+        url('Manufaktur-BoldIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+

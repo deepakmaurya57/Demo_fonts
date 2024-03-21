@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Cubio Mono 300';
+    src: url('CubioMono-300.eot');
+    src: local('Cubio Mono 300'), local('CubioMono-300'),
+        url('CubioMono-300.eot?#iefix') format('embedded-opentype'),
+        url('CubioMono-300.woff2') format('woff2'),
+        url('CubioMono-300.woff') format('woff'),
+        url('CubioMono-300.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cubio Mono 500';
+    src: url('CubioMono-500.eot');
+    src: local('Cubio Mono 500'), local('CubioMono-500'),
+        url('CubioMono-500.eot?#iefix') format('embedded-opentype'),
+        url('CubioMono-500.woff2') format('woff2'),
+        url('CubioMono-500.woff') format('woff'),
+        url('CubioMono-500.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cubio Mono 700';
+    src: url('CubioMono-700.eot');
+    src: local('Cubio Mono 700'), local('CubioMono-700'),
+        url('CubioMono-700.eot?#iefix') format('embedded-opentype'),
+        url('CubioMono-700.woff2') format('woff2'),
+        url('CubioMono-700.woff') format('woff'),
+        url('CubioMono-700.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
